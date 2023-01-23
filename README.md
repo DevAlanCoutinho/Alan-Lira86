@@ -3,7 +3,6 @@ Estou migrando de área do mercado comercial corporativo para Desenvolvimento We
 
 - 🎯 Me preparando para ser um Desenvolvedor Web Front End;
 - 🌱 Estudando HTML5, CSS3 e JavaScript
-- 😄 Ele/Dele
 - ⚡ Carioca, Rubro negro, pai da princesa 👸 Letícia e do pet 🐕 Calebe
 
 

@@ -3,11 +3,11 @@ Estou migrando de área do mercado comercial corporativo para Desenvolvimento We
 
 - 🎯 Me preparando para ser um Desenvolvedor Web Front End;
 - 🌱 Estudando HTML5, CSS3 e JavaScript
-- 😄 Pronouns:  Ele/Dele
-- ⚡ Fun fact: Carioca, Rubro negro, pai da princesa 👸 Letícia e do pet 🐕 Calebe
+- 😄 Ele/Dele
+- ⚡ Carioca, Rubro negro, pai da princesa 👸 Letícia e do pet 🐕 Calebe
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:https://www.linkedin.com/in/dev-web-alan-coutinho-005614263/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-web-alan-coutinho-005614263/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alancoutinho.devfrontendjr/?next=%2F)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 

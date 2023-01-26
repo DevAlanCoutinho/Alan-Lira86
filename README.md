@@ -7,7 +7,7 @@ Estou migrando de área do mercado comercial corporativo para Desenvolvimento We
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-web-alan-coutinho-005614263/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alancoutinho.devfrontendjr/?next=%2F)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alancoutinho.devweb/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
 ![alan-lira86 GitHub stats](https://github-readme-stats.vercel.app/api?username=alan-lira86&show_icons=true&theme=radical)
